@@ -7,7 +7,7 @@ This is a beautifully animated and interactive **Birthday Greeting Webpage**, ma
 
 ---
 ```
-https://github.com/mukesh__majhi_1/AasikaHBD
+ https://github.com/Mukeshmajhi001/aashika_HBD.git
 
 ```
 ## 🌟 Features
