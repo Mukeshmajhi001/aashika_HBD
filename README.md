@@ -1,9 +1,7 @@
-HEAD
-![Foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Screenshot%202025-07-18%20190010.png?raw=true)
-```
-![foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Aashika_hbd.png?raw=true)
-```
 
+![Foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Screenshot%202025-07-18%20190010.png?raw=true)
+![foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Aashika_hbd.png?raw=true)
+<h1><b><i>HEAD</i></b></h1>h1>
 # AashikaHBD
 🎉 Page Description: Happy Birthday Greeting Page This is a beautifully designed interactive birthday greeting webpage, made especially to celebrate someone’s special day — in this case, Aashika (nickname: Aasu).
 # 🎂 Happy Birthday Greeting Page for Aasu
@@ -27,9 +25,7 @@ This is a beautifully animated and interactive **Birthday Greeting Webpage**, ma
 - 📱 Mobile-friendly (Bootstrap 3 based)
 
 ---
-
-
-=======
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
@@ -42,30 +38,5 @@ https://github.com/mukesh__majhi_1/AashikaHBD
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
-# Setup
-
-## If you have python installed:
-```
-cd Birthday
-```
-
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
-```
-
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
->>>>>>> 513c046 (first commit)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
