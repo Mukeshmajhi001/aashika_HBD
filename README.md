@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+HEAD
+![Foto](https://github.com/Mukeshmajhi001/aashika_HBD/tree/5add63695d0531813925a717287f64985df933b2/ScreenShot)
 # AashikaHBD
 🎉 Page Description: Happy Birthday Greeting Page This is a beautifully designed interactive birthday greeting webpage, made especially to celebrate someone’s special day — in this case, Aashika (nickname: Aasu).
 # 🎂 Happy Birthday Greeting Page for Aasu
