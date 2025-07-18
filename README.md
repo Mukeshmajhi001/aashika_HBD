@@ -1,5 +1,9 @@
 HEAD
 ![Foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Screenshot%202025-07-18%20190010.png?raw=true)
+```
+![foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Aashika_hbd.png?raw=true)
+```
+
 # AashikaHBD
 🎉 Page Description: Happy Birthday Greeting Page This is a beautifully designed interactive birthday greeting webpage, made especially to celebrate someone’s special day — in this case, Aashika (nickname: Aasu).
 # 🎂 Happy Birthday Greeting Page for Aasu
