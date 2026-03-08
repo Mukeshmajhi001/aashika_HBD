@@ -1,4 +1,4 @@
-
+## live Demo ```https://aashika-birthday.netlify.app/``` ##
 ![Foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Screenshot%202025-07-18%20190010.png?raw=true)
 ![foto](https://github.com/Mukeshmajhi001/aashika_HBD/blob/main/ScreenShot/Aashika_hbd.png?raw=true)
 <h1><b><i>HEAD</i></b></h1>h1>
